@@ -1,0 +1,6 @@
+{
+  "name": "OSS Navigator AI",
+  "description": "Help students and beginner developers understand GitHub repositories and contribute to open source with structured roadmaps, repository layouts, and first step guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
